@@ -1,7 +1,4 @@
 # curso digital: GIT/VErsionamento
-
-
-
  ## salavando alterações
-  * comando git push
-  
+  * comando git 
+* comando git pull 
